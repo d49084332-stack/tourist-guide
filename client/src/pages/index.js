@@ -1,0 +1,9 @@
+export { default as DestinationDetails } from './DestinationDetails.jsx';
+export { default as Recommendations } from './Recommendations.jsx';
+export { default as Favorites } from './Favorites.jsx';
+export { default as Profile } from './Profile.jsx';
+export { default as TravelPlanner } from './SmartRoutePlanner.jsx';
+export { default as AiAssistant } from './AiAssistant.jsx';
+export { default as AdminDashboard } from './AdminDashboard.jsx';
+export { default as About } from './About.jsx';
+export { default as NotFound } from './NotFound.jsx';
